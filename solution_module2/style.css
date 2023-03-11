@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
@@ -13,7 +17,6 @@ h2 {
 
 .item {
     background-color: gray;
-    box-sizing: border-box;
     width: 400px;
     padding: 0px;
     margin: 20px;
@@ -26,7 +29,6 @@ h2 {
 
 .itemheader {
     text-align: center;
-    box-sizing: border-box;
     width: 120px;
     padding: 3px;
     margin: 0px;

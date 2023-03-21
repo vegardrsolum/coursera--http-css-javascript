@@ -92,5 +92,15 @@ section {
 @media (max-width: 767px) {
     #section1, #section2, #section3 {
         float: left;
+        margin: 10px;
+    }
+    #section1 {
+        width: calc(100% - 20px);
+    }
+    #section2 {
+        width: calc(100% - 20px);
+    }
+    #section3 {
+        width: calc(100% - 20px);
     }
 }

@@ -75,6 +75,16 @@ section {
 @media (min-width: 768px) and (max-width: 991px) {
     #section1, #section2, #section3 {
         float: left;
+        margin: 10px;
+    }
+    #section1 {
+        width: calc(50% - 20px);
+    }
+    #section2 {
+        width: calc(50% - 20px);
+    }
+    #section3 {
+        width: calc(100% - 20px);
     }
 }
 

@@ -43,3 +43,8 @@ body {
 .navbar-header button.navbar-toggle {
   clear: both;
 }
+
+#page-heading {
+  font-size: 2em;
+  font-weight: bold;
+}

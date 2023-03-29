@@ -48,3 +48,15 @@ body {
   font-size: 2em;
   font-weight: bold;
 }
+
+.menu-item {
+  background: gray;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.menu-item-title {
+  font-weight: bold;
+  padding-top: 10px;
+}
